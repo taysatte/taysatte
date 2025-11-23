@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Taylor! 👋
 
-<!--
-**taysatte/taysatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few things I've been working on:
 
-Here are some ideas to get you started:
+| Project | Description |
+| :--- | :--- |
+| **[linty](https://github.com/taysatte/linty)** | A daily code debugging challenge, inspired by Wordle. Sharpen your problem-solving skills by identifying and fixing hidden bugs. |
+| **[corduroy-theme-vscode](https://github.com/taysatte/corduroy-theme-vscode)** | "Like a pair of warm corduroy pants... for your eyes." A cozy theme for VS Code. ☕️ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=taysatte&show_icons=true&theme=radical" alt="Taylor's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taysatte&layout=compact&theme=radical" alt="Top Languages" />
+
+---
+<p align="center"><i>Thanks for visiting!</i></p>
